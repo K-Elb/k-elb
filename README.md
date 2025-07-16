@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on MOTiON, a sport performance analysis startup.
-  - 🌱 I’m currently learning python and SwiftUI.
-    - 👯 I’m looking to collaborate on open source AI projects.
+- 🌱 I’m currently learning python and SwiftUI.
+  - 👯 I’m looking to collaborate on open source AI projects.
 
 <!--
 **K-Elb/k-elb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
