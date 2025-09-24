@@ -1,12 +1,12 @@
-# Hi there, I'm Karim 👋
+# Hi there 👋, I'm Karim, founder & CEO of MOTiON
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00e000&center=true&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00e000&center=true&lines=Engineer+%26+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and contributing to open-source projects. Currently focused on building scalable applications and exploring the fascinating world of artificial intelligence.
+I'm an engineer who loves creating innovative solutions and contributing to open-source projects. Currently focused on building scalable applications and exploring the fascinating world of artificial intelligence.
 
 - 🔭 I'm currently working on MOTiON, a sports performance analysis tool.
 - 🌱 I'm learning various programming langauges for different applications.
